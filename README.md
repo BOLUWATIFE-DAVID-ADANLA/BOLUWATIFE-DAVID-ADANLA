@@ -11,7 +11,9 @@ In addition to building apps, I write technical articles, sharing insights and b
 I am open to work and collaborations and always interested in joining great teams on meaningful projects.
 
 * 🌍  I'm based in Lagos, Nigeria.
-* ✉️  You can contact me at [adanlaboluwatife@gmail.com](mailto:adanlaboluwatife@gmail.com)
+*  💬 Ask me about Dart, Flutter, Android Native, Kotlin, Technical Writing, Python, Music, Philosophy, Finance, and Jesus 😉
+* ⚡ Fun fact: I'm learning Boxing and Wrestling. 😆
+*  ✉️  You can contact me at [adanlaboluwatife@gmail.com](mailto:adanlaboluwatife@gmail.com)
 
 ### Programming Languages 
 
@@ -79,8 +81,9 @@ I am open to work and collaborations and always interested in joining great team
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/BOLUWATIFE-DAVID-ADANLA">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacktivist123&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=BOLUWATIFE-DAVID-ADANLA&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="BOLUWATIFE-DAVID-ADANLA's GitHub stats" />
 </a>
+
 
 <a href="http://www.github.com/BOLUWATIFE-DAVID-ADANLA">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BOLUWATIFE-DAVID-ADANLA&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
