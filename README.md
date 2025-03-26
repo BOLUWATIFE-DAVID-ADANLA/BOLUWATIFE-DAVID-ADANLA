@@ -1,14 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Olewuezi Marvellous
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) there, I am Boluwatife David Adanla 
 ===========================================================================================================================================
 
-Passionate CS student diving into Flutter/Dart for cross-platform mobile development!
+I'm a bricklayer who primarily writes Dart, Java, and Kotlin!
 -------------------------------------------------------------------------------------
 
-Aspiring Computer Science student at Caleb University, eager to explore the fascinating realm of mobile app development using Flutter and Dart. Equipped with a solid foundation in Java, Python, and C++ fundamentals, I'm ready to embark on an exciting journey of creating cross-platform mobile applications that merge creativity with functionality. Join me as I venture into the dynamic world of Flutter, turning ideas into innovative mobile experiences
+I'm a software engineer specializing in mobile app development using Flutter, Kotlin, Java, and Python. I have experience with React Native, React, Next.js, Firebase, API integration, and app testing. My focus is on creating user-friendly applications and enhancing user experiences with the right technologies.
+
+I am open to work and collaborations, and I am always interested in joining great teams on meaningful projects.
 
 * 🌍  I'm based in Lagos, Nigeria.
-* ✉️  You can contact me at [olewuezimarvellous@gmail.com](mailto:olewuezimarvellous@gmail.com)
-* 🧠  I'm learning Flutter UI design and implementation, Using API's and SDK's in flutter, Encryption and Decryption
+* ✉️  You can contact me at [adanlaboluwatife@gmail.com](mailto:adanlaboluwatife@gmail.com)
 
 ### Skills
 
@@ -39,3 +40,17 @@ Aspiring Computer Science student at Caleb University, eager to explore the fasc
 <a href="http://www.github.com/Marvyoha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Marvyoha&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Marvyoha" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvyoha&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+<a href="http://www.github.com/BOLUWATIFE-DAVID-ADANLA">
+  <img src="https://github-readme-stats.vercel.app/api?username=BOLUWATIFE-DAVID-ADANLA&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="BOLUWATIFE-DAVID-ADANLA's GitHub stats" />
+</a>
+
+<a href="http://www.github.com/BOLUWATIFE-DAVID-ADANLA">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BOLUWATIFE-DAVID-ADANLA&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
+
+<a href="https://github.com/BOLUWATIFE-DAVID-ADANLA" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOLUWATIFE-DAVID-ADANLA&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
+
