@@ -37,7 +37,7 @@ I am open to work and collaborations and always interested in joining great team
 </p>
 
 
-### Tools and Technologies 
+### :hammer_and_wrench: Languages and Tools
 
 <p align="left">
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
@@ -79,7 +79,7 @@ I am open to work and collaborations and always interested in joining great team
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/BOLUWATIFE-DAVID-ADANLA">
-  <img src="https://github-readme-stats.vercel.app/api?username=BOLUWATIFE-DAVID-ADANLA&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="BOLUWATIFE-DAVID-ADANLA's GitHub stats" />
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacktivist123&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 <a href="http://www.github.com/BOLUWATIFE-DAVID-ADANLA">
