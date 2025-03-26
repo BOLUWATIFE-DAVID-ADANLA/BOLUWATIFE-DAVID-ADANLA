@@ -35,13 +35,6 @@ I am open to work and collaborations, and I am always interested in joining grea
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Marvyoha"><img src="https://github-readme-stats.vercel.app/api?username=Marvyoha&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="Marvyoha's GitHub stats" /></a>
-
-<a href="http://www.github.com/Marvyoha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Marvyoha&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Marvyoha" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvyoha&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
 <a href="http://www.github.com/BOLUWATIFE-DAVID-ADANLA">
   <img src="https://github-readme-stats.vercel.app/api?username=BOLUWATIFE-DAVID-ADANLA&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="BOLUWATIFE-DAVID-ADANLA's GitHub stats" />
 </a>
