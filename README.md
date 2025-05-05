@@ -50,6 +50,7 @@ Here are a few mobile & web applications I’ve contributed to:
 </a>
 </p>
 
+---
 
 ### :hammer_and_wrench: Languages and Tools
 
@@ -81,7 +82,7 @@ Here are a few mobile & web applications I’ve contributed to:
 </a>
 </p>
 
-
+---
 
 
 ### Socials
