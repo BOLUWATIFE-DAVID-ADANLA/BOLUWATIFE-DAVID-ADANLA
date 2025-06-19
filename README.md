@@ -21,8 +21,6 @@ Here are a few mobile & web applications I’ve contributed to:
 
 - [KweekTransfer Website](https://kweektransfer.com/)
 - [KweekTransfer App (Play Store)](https://play.google.com/store/apps/details?id=com.kweektransfer&hl=en&pli=1)
-- [Seki App (Play Store)](https://play.google.com/store/apps/details?id=com.wiseki.sekiapp&hl=en)
-- [Trashpaddy App (Play Store)](https://play.google.com/store/apps/details?id=ng.trashit.app&hl=en)
 - [Halloween for all (website)](https://halloween-webpage.vercel.app/)
 
 ---
